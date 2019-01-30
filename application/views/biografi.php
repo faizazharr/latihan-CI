@@ -10,9 +10,25 @@ defined('BASEPATH') or exit('No direct script access allowed');
     <title>BIOGRAFI</title>
 </head>
 <body>
-<center>
-NAMA : FAIZ AZHAR RISTYA NUGRAHA
-</center>
+    <h1>MY FIRST PROFIL</h1>
+    <center>
+        <table>
+        <tr>
+            <td>NAMA</td>
+            <td>FAIZ AZHAR RISTYA NUGRAHA</td>
+        </tr>
+        <tr><td>ADDRES </td>
+            <td>TEGALWINANGUN , TEGALGEDE KARANGANYAR</td>
+        </tr>
+        <tr>
+        <td>STUDY </td>
+        <td> TELKOM UNIVERSITY </td>
+        </tr>
+        <tr><td>INFORMATION </td><td></td></tr>
+        </table>
+        
+
+    </center>
     
 </body>
 </html>
