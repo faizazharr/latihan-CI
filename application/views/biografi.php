@@ -12,6 +12,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
 <body>
     <h1>MY FIRST PROFIL</h1>
     <center>
+        <img src="11231.jpg" alt="">
         <table>
         <tr>
             <td>NAMA</td>
@@ -24,7 +25,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
         <td>STUDY </td>
         <td> TELKOM UNIVERSITY </td>
         </tr>
-        <tr><td>INFORMATION </td><td></td></tr>
+        <tr><td>INFORMATION </td><td>STUDENT COLLAGE FROM TELKOM <br> UNIVERSITY PROGRAM INFORMATION SYSTEM</td></tr>
         </table>
         
 
