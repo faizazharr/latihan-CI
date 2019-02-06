@@ -27,8 +27,6 @@ defined('BASEPATH') or exit('No direct script access allowed');
         </tr>
         <tr><td>INFORMATION </td><td>STUDENT COLLAGE FROM TELKOM <br> UNIVERSITY PROGRAM INFORMATION SYSTEM</td></tr>
         </table>
-        
-
     </center>
     
 </body>
