@@ -11,6 +11,5 @@ defined('BASEPATH') or exit('No direct script access allowed');
     <title>Document</title>
 </head>
 <body>
-    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/63/IMG_%28business%29.svg/1200px-IMG_%28business%29.svg.png" widht="300" alt="">
-</body>
-</html>
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/63/IMG_%28business%29.svg/1200px-IMG_%28business%29.svg.png" width="300" alt="">
+ 
